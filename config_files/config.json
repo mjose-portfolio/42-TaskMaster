@@ -1,0 +1,25 @@
+{
+    "programs": {
+        "ls": {
+            "cmd": "ls",
+            "cmdammount": 20,
+            "autostart": false,
+            "autorestart": "always",
+            "starttime": 0,
+            "stoptime": 0,
+            "restartretries": 3,
+            "quitsig": "TERM",
+            "exitcodes": "None",
+            "workingdir": "/tmp",
+            "umask": "None",
+            "stdout": "outfile.log",
+            "stderr": "outfile.log",
+            "env": [
+                "STARTED_BY=TASKMASTER",
+                "ANSWER=42"
+            ]
+        }
+    },
+    "log-active": true,
+	"log-file": "taskmaster.log"
+}

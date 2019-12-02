@@ -1,23 +1,4 @@
-# 42-TaskMaster
-
-Basic task manager that reads from a config.json file and supervises a number of processes.
-We were restricted to our language of choice’s standard library. Except for the config file parsing.
-
-The script reads the tasks parameters from the json file, and executes some kind of user prompt to effectively manage these tasks.
-
-The only argument needed is a config file. All info about making your own config file is in exampleconfig.json.
-
-## Install
-
-- Not needed.
-
-## Configuration
-
-- Create a file in json format with the following characteristics:
-
-
-```
-{                                   
+{                                   # An example file with explanations. Some options can be left to None, but others are required
     "programs": {                   #a list of programs
         "sleep": {                  #the name of a program *Required*
             "cmd": "sleep 1000",    #the exact command to launch *Required*
@@ -37,25 +18,3 @@ The only argument needed is a config file. All info about making your own config
         }
     }
 }
-```
-
-## Launching method
-
-- `python3 taskmaster.py config_files/<yourconfig>.json`
-
-## Commands
-
-- `help`: List available commands with "help" or detailed help with "help cmd".
-- `help <command>`: Prints the description and the method of use of the command.
-- `start <program>`: Starts desired program(s). Usage -> start <program name(s)>
-- `stop <program>`: Stops desired program(s). Usage -> stop <program name(s)>
-- `restart <program>`: Restarts desired program(s) that has already been launched. Usage -> restart <program name(s)>
-- `reload`: Reloads the whole configuration. Usage -> reload
-- `display`: Opens a window that shows the pre-loaded configuration and the status of the programs to be monitored.
-
-## Examples
-
-![alt text](README_resources/start_taskmaster.gif)
-![alt text](README_resources/start_ls.gif)
-![alt text](README_resources/display_command.gif)
-![alt text](README_resources/display.gif)

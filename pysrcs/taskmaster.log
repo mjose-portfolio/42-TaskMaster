@@ -1,0 +1,42 @@
+2019-11-11 05:54:26,695 INFO	Checking valid params...
+2019-11-11 05:54:26,695 INFO	Params checked: VALID
+2019-11-11 05:54:26,695 INFO	Setting signal handlers...
+2019-11-11 05:54:26,695 INFO	Signal handlers set.
+2019-11-11 05:54:26,696 INFO	Opening config file... ../config_files/testconfig.json
+2019-11-11 05:54:26,696 INFO	Config file ../config_files/testconfig.json open.
+2019-11-11 05:54:26,696 INFO	Loading config file... ../config_files/testconfig.json
+2019-11-11 05:54:26,696 INFO	Config file ../config_files/testconfig.json loaded.
+2019-11-11 05:54:26,696 INFO	Checking configuration...
+2019-11-11 05:54:26,696 INFO	16 instances have been found
+2019-11-11 05:54:26,696 INFO	Config verified succesfully: sleep
+2019-11-11 05:54:26,696 INFO	Config verified succesfully: ls
+2019-11-11 05:54:26,696 INFO	Config verified succesfully: env
+2019-11-11 05:54:26,696 INFO	Initializing programs list
+2019-11-11 05:54:26,696 INFO	Programs list initilized
+2019-11-11 05:54:26,696 INFO	Asking the user if he wants to continue
+2019-11-11 05:54:28,025 INFO	User input "y".
+2019-11-11 05:54:28,025 INFO	There is no previous program list.
+2019-11-11 05:54:28,025 INFO	Configuring instance for "sleep"
+2019-11-11 05:54:28,025 INFO	Creating environment.
+2019-11-11 05:54:28,026 INFO	Selecting standard outputs.
+2019-11-11 05:54:28,026 INFO	Selected standard outputs in:
+					STDOUT: /tmp/outfile.log
+					STDERR: /tmp/outfile.log
+2019-11-11 05:54:28,026 INFO	Configuring instance for "ls"
+2019-11-11 05:54:28,026 INFO	Creating environment.
+2019-11-11 05:54:28,026 INFO		ANSWER = 42
+2019-11-11 05:54:28,026 INFO	Environment created succesfully.
+2019-11-11 05:54:28,026 INFO	Selecting standard outputs.
+2019-11-11 05:54:28,026 INFO	Selected standard outputs in:
+					STDOUT: /tmp/outfile.log
+					STDERR: /tmp/outfile.log
+2019-11-11 05:54:28,026 INFO	Configuring instance for "env"
+2019-11-11 05:54:28,026 INFO	Creating environment.
+2019-11-11 05:54:28,026 INFO	Selecting standard outputs.
+2019-11-11 05:54:28,026 INFO	Selected standard outputs in:
+					STDOUT: /tmp/cacafile.log
+					STDERR: /dev/null
+2019-11-11 05:54:52,810 INFO	Asking the user if he wants to kill all remaining jobs
+2019-11-11 05:54:55,053 INFO	User input "y".
+2019-11-11 05:54:55,053 INFO	Taskmaster loop started.
+2019-11-11 05:54:55,053 INFO	All jobs were killed on exit

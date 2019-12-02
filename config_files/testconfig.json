@@ -1,0 +1,62 @@
+{
+    "programs": {
+        "sleep": {
+            "cmd": "sleep 1000",
+            "cmdammount": 10,
+            "autostart": false,
+            "autorestart": "never",
+            "starttime": 0,
+            "stoptime": 0,
+            "restartretries": 3,
+            "quitsig": "TERM",
+            "exitcodes": "None",
+            "workingdir": "/tmp/",
+            "umask": "None",
+            "stdout": "outfile.log",
+            "stderr": "outfile.log",
+            "env": "None"
+        },
+        "ls": {
+            "cmd": "ls",
+            "cmdammount": 20,
+            "autostart": true,
+            "autorestart": "never",
+            "starttime": 0,
+            "stoptime": 0,
+            "restartretries": 3,
+            "quitsig": "TERM",
+            "exitcodes": "None",
+            "workingdir": "/tmp",
+            "umask": "None",
+            "stdout": "outfile.log",
+            "stderr": "outfile.log",
+            "env": [
+                "STARTED_BY=TASKMASTER",
+                "ANSWER=42"
+            ]
+        },
+        "env": {
+            "cmd": "env",
+            "cmdammount": 50,
+            "autostart": false,
+            "autorestart": "unexpected",
+            "starttime": 10,
+            "stoptime": 0,
+            "restartretries": 3,
+            "quitsig": "TERM",
+            "exitcodes": [
+				0,
+                1,
+                2,
+                15
+            ],
+            "workingdir": "/tmp/",
+            "umask": "None",
+            "stdout": "cacafile.log",
+            "stderr": "None",
+            "env": "None"
+        }
+    },
+    "log-active": true,
+	"log-file": "taskmaster.log"
+}

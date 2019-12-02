@@ -1,0 +1,166 @@
+2019-12-02 22:11:45,711 INFO	Checking valid params...
+2019-12-02 22:11:45,711 INFO	Params checked: VALID
+2019-12-02 22:11:45,711 INFO	Setting signal handlers...
+2019-12-02 22:11:45,711 INFO	Signal handlers set.
+2019-12-02 22:11:45,711 INFO	Opening config file... config_files/config.json
+2019-12-02 22:11:45,711 INFO	Config file config_files/config.json open.
+2019-12-02 22:11:45,711 INFO	Loading config file... config_files/config.json
+2019-12-02 22:11:45,711 INFO	Config file config_files/config.json loaded.
+2019-12-02 22:11:45,711 INFO	Checking configuration...
+2019-12-02 22:11:45,711 INFO	20 instances have been found
+2019-12-02 22:11:45,712 INFO	Config verified succesfully: ls
+2019-12-02 22:11:45,712 INFO	Initializing programs list
+2019-12-02 22:11:45,712 INFO	Programs list initilized
+2019-12-02 22:11:45,712 INFO	Asking the user if he wants to continue
+2019-12-02 22:11:48,781 INFO	User input "y".
+2019-12-02 22:11:48,782 INFO	There is no previous program list.
+2019-12-02 22:11:48,782 INFO	Configuring instance for "ls"
+2019-12-02 22:11:48,782 INFO	Creating environment.
+2019-12-02 22:11:48,783 INFO		ANSWER = 42
+2019-12-02 22:11:48,783 INFO	Environment created succesfully.
+2019-12-02 22:11:48,783 INFO	Selecting standard outputs.
+2019-12-02 22:11:48,783 INFO	Selected standard outputs in:
+					STDOUT: /tmp/outfile.log
+					STDERR: /tmp/outfile.log
+2019-12-02 22:11:48,885 INFO	Program: ls was revived
+2019-12-02 22:11:48,990 INFO	Program: ls was revived
+2019-12-02 22:11:49,093 INFO	Program: ls was revived
+2019-12-02 22:11:49,194 INFO	Program: ls was revived
+2019-12-02 22:11:49,300 INFO	Program: ls was revived
+2019-12-02 22:11:49,401 INFO	Program: ls was revived
+2019-12-02 22:11:49,506 INFO	Program: ls was revived
+2019-12-02 22:11:49,611 INFO	Program: ls was revived
+2019-12-02 22:11:49,716 INFO	Program: ls was revived
+2019-12-02 22:11:49,822 INFO	Program: ls was revived
+2019-12-02 22:11:49,927 INFO	Program: ls was revived
+2019-12-02 22:11:50,033 INFO	Program: ls was revived
+2019-12-02 22:11:50,137 INFO	Program: ls was revived
+2019-12-02 22:11:50,243 INFO	Program: ls was revived
+2019-12-02 22:11:50,344 INFO	Program: ls was revived
+2019-12-02 22:11:50,450 INFO	Program: ls was revived
+2019-12-02 22:11:50,550 INFO	Program: ls was revived
+2019-12-02 22:11:50,651 INFO	Program: ls was revived
+2019-12-02 22:11:50,754 INFO	Program: ls was revived
+2019-12-02 22:11:50,855 INFO	Program: ls was revived
+2019-12-02 22:11:50,956 INFO	Program: ls was revived
+2019-12-02 22:11:51,061 INFO	Program: ls was revived
+2019-12-02 22:11:51,164 INFO	Program: ls was revived
+2019-12-02 22:11:51,266 INFO	Program: ls was revived
+2019-12-02 22:11:51,368 INFO	Program: ls was revived
+2019-12-02 22:11:51,469 INFO	Program: ls was revived
+2019-12-02 22:11:51,570 INFO	Program: ls was revived
+2019-12-02 22:11:51,675 INFO	Program: ls was revived
+2019-12-02 22:11:51,776 INFO	Program: ls was revived
+2019-12-02 22:11:51,879 INFO	Program: ls was revived
+2019-12-02 22:11:51,980 INFO	Program: ls was revived
+2019-12-02 22:11:52,084 INFO	Program: ls was revived
+2019-12-02 22:11:52,190 INFO	Program: ls was revived
+2019-12-02 22:11:52,294 INFO	Program: ls was revived
+2019-12-02 22:11:52,398 INFO	Program: ls was revived
+2019-12-02 22:11:52,498 INFO	Program: ls was revived
+2019-12-02 22:11:52,604 INFO	Program: ls was revived
+2019-12-02 22:11:52,705 INFO	Program: ls was revived
+2019-12-02 22:11:52,811 INFO	Program: ls was revived
+2019-12-02 22:11:52,912 INFO	Program: ls was revived
+2019-12-02 22:11:53,014 INFO	Program: ls was revived
+2019-12-02 22:11:53,119 INFO	Program: ls was revived
+2019-12-02 22:11:53,224 INFO	Program: ls was revived
+2019-12-02 22:11:53,329 INFO	Program: ls was revived
+2019-12-02 22:11:53,435 INFO	Program: ls was revived
+2019-12-02 22:11:53,540 INFO	Program: ls was revived
+2019-12-02 22:11:53,644 INFO	Program: ls was revived
+2019-12-02 22:11:53,748 INFO	Program: ls was revived
+2019-12-02 22:11:53,860 INFO	Program: ls was revived
+2019-12-02 22:11:53,965 INFO	Program: ls was revived
+2019-12-02 22:11:54,065 INFO	Program: ls was revived
+2019-12-02 22:11:54,168 INFO	Program: ls was revived
+2019-12-02 22:11:54,268 INFO	Program: ls was revived
+2019-12-02 22:11:54,369 INFO	Program: ls was revived
+2019-12-02 22:11:54,470 INFO	Program: ls was revived
+2019-12-02 22:11:54,576 INFO	Program: ls was revived
+2019-12-02 22:11:54,681 INFO	Program: ls was revived
+2019-12-02 22:11:54,781 INFO	Program: ls was revived
+2019-12-02 22:11:54,882 INFO	Program: ls was revived
+2019-12-02 22:11:54,987 INFO	Program: ls was revived
+2019-12-02 22:11:55,093 INFO	Program: ls was revived
+2019-12-02 22:11:55,194 INFO	Program: ls was revived
+2019-12-02 22:11:55,295 INFO	Program: ls was revived
+2019-12-02 22:11:55,401 INFO	Program: ls was revived
+2019-12-02 22:11:55,506 INFO	Program: ls was revived
+2019-12-02 22:11:55,610 INFO	Program: ls was revived
+2019-12-02 22:11:55,712 INFO	Program: ls was revived
+2019-12-02 22:11:55,817 INFO	Program: ls was revived
+2019-12-02 22:11:55,923 INFO	Program: ls was revived
+2019-12-02 22:11:56,028 INFO	Program: ls was revived
+2019-12-02 22:11:56,129 INFO	Program: ls was revived
+2019-12-02 22:11:56,235 INFO	Program: ls was revived
+2019-12-02 22:11:56,337 INFO	Program: ls was revived
+2019-12-02 22:11:56,438 INFO	Program: ls was revived
+2019-12-02 22:11:56,539 INFO	Program: ls was revived
+2019-12-02 22:11:56,642 INFO	Program: ls was revived
+2019-12-02 22:11:56,743 INFO	Program: ls was revived
+2019-12-02 22:11:56,844 INFO	Program: ls was revived
+2019-12-02 22:11:56,947 INFO	Program: ls was revived
+2019-12-02 22:11:57,048 INFO	Program: ls was revived
+2019-12-02 22:11:57,150 INFO	Program: ls was revived
+2019-12-02 22:11:57,251 INFO	Program: ls was revived
+2019-12-02 22:11:57,352 INFO	Program: ls was revived
+2019-12-02 22:11:57,457 INFO	Program: ls was revived
+2019-12-02 22:11:57,557 INFO	Program: ls was revived
+2019-12-02 22:11:57,662 INFO	Program: ls was revived
+2019-12-02 22:11:57,764 INFO	Program: ls was revived
+2019-12-02 22:11:57,869 INFO	Program: ls was revived
+2019-12-02 22:11:57,973 INFO	Program: ls was revived
+2019-12-02 22:11:58,075 INFO	Program: ls was revived
+2019-12-02 22:11:58,179 INFO	Program: ls was revived
+2019-12-02 22:11:58,281 INFO	Program: ls was revived
+2019-12-02 22:11:58,381 INFO	Program: ls was revived
+2019-12-02 22:11:58,484 INFO	Program: ls was revived
+2019-12-02 22:11:58,586 INFO	Program: ls was revived
+2019-12-02 22:11:58,689 INFO	Program: ls was revived
+2019-12-02 22:11:58,794 INFO	Program: ls was revived
+2019-12-02 22:11:58,900 INFO	Program: ls was revived
+2019-12-02 22:11:59,005 INFO	Program: ls was revived
+2019-12-02 22:11:59,105 INFO	Program: ls was revived
+2019-12-02 22:11:59,211 INFO	Program: ls was revived
+2019-12-02 22:11:59,312 INFO	Program: ls was revived
+2019-12-02 22:11:59,413 INFO	Program: ls was revived
+2019-12-02 22:11:59,514 INFO	Program: ls was revived
+2019-12-02 22:11:59,618 INFO	Program: ls was revived
+2019-12-02 22:11:59,721 INFO	Program: ls was revived
+2019-12-02 22:11:59,822 INFO	Program: ls was revived
+2019-12-02 22:11:59,926 INFO	Program: ls was revived
+2019-12-02 22:12:00,029 INFO	Program: ls was revived
+2019-12-02 22:12:00,130 INFO	Program: ls was revived
+2019-12-02 22:12:00,145 INFO	Starting programs.
+2019-12-02 22:12:00,241 INFO	Program: ls was started.
+2019-12-02 22:12:00,325 INFO	Program: ls was revived
+2019-12-02 22:12:00,534 INFO	Program: ls was revived
+2019-12-02 22:12:00,743 INFO	Program: ls was revived
+2019-12-02 22:12:00,946 INFO	Program: ls was revived
+2019-12-02 22:12:01,146 INFO	Program: ls was revived
+2019-12-02 22:12:01,348 INFO	Program: ls was revived
+2019-12-02 22:12:01,551 INFO	Program: ls was revived
+2019-12-02 22:12:01,754 INFO	Program: ls was revived
+2019-12-02 22:12:01,951 INFO	Program: ls was revived
+2019-12-02 22:12:02,150 INFO	Program: ls was revived
+2019-12-02 22:12:02,357 INFO	Program: ls was revived
+2019-12-02 22:12:02,557 INFO	Program: ls was revived
+2019-12-02 22:12:02,759 INFO	Program: ls was revived
+2019-12-02 22:12:02,958 INFO	Program: ls was revived
+2019-12-02 22:12:03,158 INFO	Program: ls was revived
+2019-12-02 22:12:03,362 INFO	Program: ls was revived
+2019-12-02 22:12:03,562 INFO	Program: ls was revived
+2019-12-02 22:12:03,684 INFO	Asking the user if he wants to kill all remaining jobs
+2019-12-02 22:12:03,762 INFO	Program: ls was revived
+2019-12-02 22:12:03,964 INFO	Program: ls was revived
+2019-12-02 22:12:04,166 INFO	Program: ls was revived
+2019-12-02 22:12:04,371 INFO	Program: ls was revived
+2019-12-02 22:12:04,572 INFO	Program: ls was revived
+2019-12-02 22:12:04,769 INFO	Program: ls was revived
+2019-12-02 22:12:04,973 INFO	Program: ls was revived
+2019-12-02 22:12:05,180 INFO	Program: ls was revived
+2019-12-02 22:12:05,387 INFO	Program: ls was revived
+2019-12-02 22:12:05,542 INFO	User input "y".
+2019-12-02 22:12:05,543 INFO	Taskmaster loop started.
+2019-12-02 22:12:05,543 INFO	All jobs were killed on exit
