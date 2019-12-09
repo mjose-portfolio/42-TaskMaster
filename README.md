@@ -7,6 +7,11 @@ The script reads the tasks parameters from the json file, and executes some kind
 
 The only argument needed is a config file. All info about making your own config file is in exampleconfig.json.
 
+## Project partners
+
+- [Abraham Gimbao](https://github.com/abguimba)
+- [Marc Jose](https://github.com/mjose-portfolio)
+
 ## Install
 
 - Not needed.
